@@ -1,0 +1,21 @@
+-Dania główne
+Lazania,21
+Spaghetti bolognese,21
+Spaghetti carbonara,22
+-Zupy
+Rosół,19
+Pomidorowa,18
+Zupa grzybowa,19
+-Sałatki
+Sałatka Cezar, 24
+Salatka Grecka, 24
+-Desery
+Szarlotka z lodami,26
+Lody w pucharku,20
+Sernik z rodzynkami,12
+Sernik,13
+-Napoje
+Woda,8
+Cola,10
+Sprite,9
+Lech Premium,14

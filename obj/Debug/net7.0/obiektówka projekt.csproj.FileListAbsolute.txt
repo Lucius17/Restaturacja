@@ -1,0 +1,15 @@
+C:\Users\kwasl\source\repos\obiektówka projekt\bin\Debug\net7.0\obiektówka projekt.exe
+C:\Users\kwasl\source\repos\obiektówka projekt\bin\Debug\net7.0\obiektówka projekt.deps.json
+C:\Users\kwasl\source\repos\obiektówka projekt\bin\Debug\net7.0\obiektówka projekt.runtimeconfig.json
+C:\Users\kwasl\source\repos\obiektówka projekt\bin\Debug\net7.0\obiektówka projekt.dll
+C:\Users\kwasl\source\repos\obiektówka projekt\bin\Debug\net7.0\obiektówka projekt.pdb
+C:\Users\kwasl\source\repos\obiektówka projekt\obj\Debug\net7.0\obiektówka projekt.csproj.AssemblyReference.cache
+C:\Users\kwasl\source\repos\obiektówka projekt\obj\Debug\net7.0\obiektówka projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kwasl\source\repos\obiektówka projekt\obj\Debug\net7.0\obiektówka projekt.AssemblyInfoInputs.cache
+C:\Users\kwasl\source\repos\obiektówka projekt\obj\Debug\net7.0\obiektówka projekt.AssemblyInfo.cs
+C:\Users\kwasl\source\repos\obiektówka projekt\obj\Debug\net7.0\obiektówka projekt.csproj.CoreCompileInputs.cache
+C:\Users\kwasl\source\repos\obiektówka projekt\obj\Debug\net7.0\obiektówka projekt.dll
+C:\Users\kwasl\source\repos\obiektówka projekt\obj\Debug\net7.0\refint\obiektówka projekt.dll
+C:\Users\kwasl\source\repos\obiektówka projekt\obj\Debug\net7.0\obiektówka projekt.pdb
+C:\Users\kwasl\source\repos\obiektówka projekt\obj\Debug\net7.0\obiektówka projekt.genruntimeconfig.cache
+C:\Users\kwasl\source\repos\obiektówka projekt\obj\Debug\net7.0\ref\obiektówka projekt.dll
