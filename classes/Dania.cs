@@ -1,5 +1,6 @@
 namespace restauracja{
 	public class Danie{
+		public int ilosc;
 		public float cena;
 		public string nazwa;
 
@@ -17,6 +18,22 @@ namespace restauracja{
 	public class Wege : Danie{
 
 		public Wege(string _nazwa, float _cena) : base(_nazwa, _cena){
+
+		}
+
+
+	}
+	public class Rybne : Danie{
+
+		public Rybne(string _nazwa, float _cena) : base(_nazwa, _cena){
+
+		}
+
+
+	}
+	public class Ostre : Danie{
+
+		public Ostre(string _nazwa, float _cena) : base(_nazwa, _cena){
 
 		}
 
